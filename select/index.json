@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Disenchanted",
+  "base_artist": "My Chemical Romance",
+  "createdAt": "2026-03-18T07:59:10.327926Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Disenchanted",
+      "artist": "Communards, The",
+      "has_synced": false,
+      "path": "select/01_Disenchanted_Communards,_The.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Disenchanted (Dance)",
+      "artist": "The Communards",
+      "has_synced": false,
+      "path": "select/02_Disenchanted_(Dance)_The_Communards.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Disenchanted",
+      "artist": "Everything But The Girl",
+      "has_synced": true,
+      "path": "select/03_Disenchanted_Everything_But_The_Girl.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Like...A Ballad For The Disenchanted",
+      "artist": "Skyclad",
+      "has_synced": true,
+      "path": "select/04_Like...A_Ballad_For_The_Disenchanted_Skyclad.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Disenchanted Forest",
+      "artist": "Skyclad",
+      "has_synced": true,
+      "path": "select/05_The_Disenchanted_Forest_Skyclad.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Disenchanted",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/06_Disenchanted_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Disenchanted Lullaby",
+      "artist": "Foo Fighters",
+      "has_synced": true,
+      "path": "select/07_Disenchanted_Lullaby_Foo_Fighters.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Disenchanted Lullaby",
+      "artist": "Foo Fighters",
+      "has_synced": true,
+      "path": "select/08_Disenchanted_Lullaby_Foo_Fighters.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Disenchanted",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/09_Disenchanted_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Disenchanted - Live Demo",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/10_Disenchanted_-_Live_Demo_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Disenchanted (Live Demo)",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/11_Disenchanted_(Live_Demo)_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Disenchanted Lullaby (Live Acoustic)",
+      "artist": "Foo Fighters",
+      "has_synced": false,
+      "path": "select/12_Disenchanted_Lullaby_(Live_Acoustic)_Foo_Fighters.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Disenchanted Lullaby (live#acoustic)",
+      "artist": "Foo Fighters",
+      "has_synced": true,
+      "path": "select/13_Disenchanted_Lullaby_(live_acoustic)_Foo_Fighters.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Disenchanted",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/14_Disenchanted_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Disenchanted",
+      "artist": "Smash Mouth",
+      "has_synced": true,
+      "path": "select/15_Disenchanted_Smash_Mouth.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Disenchanted",
+      "artist": "Michael Martin Murphey",
+      "has_synced": true,
+      "path": "select/16_Disenchanted_Michael_Martin_Murphey.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Disenchanted",
+      "artist": "The Church",
+      "has_synced": true,
+      "path": "select/17_Disenchanted_The_Church.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Disenchanted",
+      "artist": "My Chemical Romance",
+      "has_synced": false,
+      "path": "select/pl_01_Disenchanted_My_Chemical_Romance.txt"
+    }
+  ]
+}
