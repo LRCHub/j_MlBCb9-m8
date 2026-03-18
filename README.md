@@ -1,0 +1,61 @@
+# My Chemical Romance – Disenchanted
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:21.05] Well, I was there on the day
+[00:23.80] They sold the cause for the queen
+[00:26.61] And when the lights all went out
+[00:29.24] We watched our lives on the screen
+[00:32.10] I hate the ending myself
+[00:35.24] But it started with an alright scene
+[00:53.24] 
+[00:43.12] It was the roar of the crowd
+[00:45.87] That gave me heartache to sing
+[00:48.61] It was a lie when they smiled
+[00:51.43] And said, "You won't feel a thing"
+[00:54.12] And as we ran from the cops
+[00:57.53] We laughed so hard it would sting
+[01:14.03] 
+[01:07.11] If I'm so wrong (so wrong, so wrong)
+[01:10.75] How can you listen all night long? (night long, night long)
+[01:17.58] Now, will it matter after I'm gone?
+[01:21.60] Because you never learned a goddamn thing
+[01:27.18] You're just a sad song with nothing to say
+[01:32.78] About a life-long wait for a hospital stay
+[01:38.25] And if you think that I'm wrong
+[01:41.74] This never meant nothing to you
+[01:49.29] I spent my high school career
+[01:51.94] Spit on and shoved to agree
+[01:54.71] So I could watch all my heroes sell a car on TV
+[02:00.29] Bring out the old guillotine
+[02:03.75] We'll show 'em what we all mean
+[02:19.25] 
+[02:13.12] If I'm so wrong (so wrong, so wrong)
+[02:16.93] How can you listen all night long? (night long, night long)
+[02:23.75] Now, will it matter long after I'm gone?
+[02:27.98] Because you never learned a goddamn thing
+[02:33.35] You're just a sad song with nothing to say
+[02:38.98] About a life-long wait for a hospital stay
+[02:44.44] And if you think that I'm wrong
+[02:47.94] This never meant nothing to you
+[02:55.59] So go, go away
+[03:01.39] Just go, run away
+[03:05.85] But where did you run to?
+[03:08.64] And where did you hide?
+[03:10.61] Go find another way
+[03:14.83] Price you pay
+[03:18.36] You're just a sad song with nothing to say
+[03:39.36] 
+[03:45.25] About a life-long wait for a hospital stay
+[03:50.75] And if you think that I'm wrong
+[03:54.10] This never meant nothing to you
+[03:59.26] Come on!
+[04:01.70] You're just a sad song with nothing to say
+[04:07.29] About a life-long wait for a hospital stay
+[04:12.86] And if you think that I'm wrong
+[04:16.18] This never meant nothing to you
+[04:24.17] At all, at all
+[04:31.17] 
+[04:35.23] At all, at all
+```
